@@ -1,27 +1,5 @@
 #%% INTRODUÇÃO
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 16 11:29:18 2022
-
-@author: Thaís Nakamura - RA: 148151 - Turma: I
-
-Projeto 02 - Segmentação Média-Adventícia
-
-Imagens Biomédicas - Matheus Cardoso
-
-Motivação: Um Instituto renomado no Brasil faz todos os tipos de investigações,
-intervenções, tratamentos e pesquisas relacionados ao coração. Dentre eles, estão
-as investigações das coronárias, estas investigações são realizadas com um
-equipamento chamado Ultrassom Intravascular (IVUS). Este equipamento adquire
-imagens de seções transversais da coronária pela inserção e movimento de
-retirada de um cateter. Contudo, além de não fornecer informações objetivas,
-como dimensões, este equipamento fornece centenas de imagens de uma mesma seção,
-o que dificulta muito a análise por segmentação manual. O pesquisador de cardiologia,
-quem usa este equipamento para orientar doutorandos em medicina, pediu a criação
-de um aplicativo para esta tarefa. O objetivo é fazer a segmentação e cálculo da área
-da borda média-adventícia (parede externa do vaso) em imagens de IVUS.
-"""
-
 #%% INICIALIZAÇÃO
 # importando bibliotecas
 import cv2
