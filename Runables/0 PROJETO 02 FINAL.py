@@ -1,5 +1,6 @@
 #%% INTRODUÇÃO
 # -*- coding: utf-8 -*-
+
 #%% INICIALIZAÇÃO
 # importando bibliotecas
 import cv2
